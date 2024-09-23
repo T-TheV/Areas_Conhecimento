@@ -1,4 +1,3 @@
-Com certeza! Vou elaborar um resumo sobre as **recomendações para a Gestão de Equipes e das Comunicações** dentro de um projeto, com base no PMBOK. Além disso, vou incluir as referências em um formato adequado para o GitHub. Vamos lá! 😊
 
 # Gestão de Equipes e Comunicações no PMBOK
 
