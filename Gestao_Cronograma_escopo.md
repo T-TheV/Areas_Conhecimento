@@ -62,8 +62,7 @@ O PMBOK fornece diretrizes detalhadas para gerenciar o **escopo** e o **cronogra
 ---
 
 ## Referências:
-1. [PMBOK® Guide - PMI](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
-3. [Gerenciamento do Escopo de Projetos - Oficina de Gerência](http://www.oficinadegerencia.com/2019/06guia-pmbok-gestao-do-escopo-do-projeto.html)
-4. [Gerenciamento do Cronograma de Projetos](https://www.adp.com.br/gestao-de-projetos-gerenciamento-do-cronograma/)
+1. [PMBOK® Guide - PMI](file:///C:/Users/a94645263/Downloads/Guia_PMBOK_7a_Edicao_Portugues_2021.pdf)
+
 
 Essas práticas são essenciais para manter um projeto dentro do prazo e com o escopo bem definido, garantindo a entrega de valor.
